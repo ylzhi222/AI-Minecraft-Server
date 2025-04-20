@@ -25,10 +25,7 @@ AI-Minecraft-Server/
 │   ├── 01_安装Java环境失败问题解决记录.md
 │   ├── 02_screen会话管理问题排查.md
 │   └── 03_GPT协作总结与反思.md
-├── server/                            # Minecraft 服务端文件
-│   └── world_backup.zip               # 存档备份文件
-├── images/                            # 项目相关截图
-│   └── server_running.png             # Minecraft 控制台运行截图（可选）
+
 ```
 
 ---
