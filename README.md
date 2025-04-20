@@ -83,7 +83,6 @@ sh ./scripts/start.sh
 - 增加 Dockerfile 支持版本
 
 如有更多建议，欢迎提出 Issue 或 Pull Request。
-感谢 AI 伙伴的协助，也感谢曾经被 screen 卡住的我自己
 ---
-
+感谢 AI 伙伴的协助，也感谢曾经被 screen 卡住的我自己
 
