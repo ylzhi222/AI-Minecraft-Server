@@ -9,6 +9,7 @@
 - [【B站】阿里云ECS搭建我的世界Java版服务器（含fabric模组）](https://www.bilibili.com/video/BV1PE411c7t9)
 
 在此基础上，根据自身服务器环境（CentOS）以及 Java 版本兼容问题，对部分步骤进行了修改，并在 AI 协助下记录了常见问题与排错过程。
+
 ---
 
 ## 🌐 项目结构说明
