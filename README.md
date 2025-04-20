@@ -72,7 +72,6 @@ sh ./scripts/start.sh
 ## 📄 附录与说明
 
 - 服务端基于 Fabric 构建，Jar 文件为 `fabric-server-launcher.jar`
-- 存档位于 `server/world_backup.zip`，解压后作为 `world/` 目录使用
 - 文档中部分内容由 AI（ChatGPT）协助生成与总结
 
 ---
